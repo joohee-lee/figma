@@ -20,9 +20,15 @@ https://www.youtube.com/@Figma
   
 3. 스타일 등록하기
 3.1 컬러 스타일 등록
+   -
+   -
+   
 3.2 Text(font) 스타일 등록
+   -
 3.3 Icon 등록
-3.4 
+   -
+
+
 
 
 ## figma & markup  협업 가이드 
