@@ -21,16 +21,16 @@ https://www.youtube.com/@Figma
    - paragrahp : 본문 들어가는 텍스트
   
      ## font-weight
-      Value	Common weight name
-      100	Thin (Hairline)
-      200	Extra Light (Ultra Light)
-      300	Light
-      400	Normal
-      500	Medium
-      600	Semi Bold (Demi Bold)
-      700	Bold
-      800	Extra Bold (Ultra Bold)
-      900	Black (Heavy)
+      Value	Common weight name 
+     - 100	Thin (Hairline)
+     - 200	Extra Light (Ultra Light)
+     - 300	Light
+     - 400	Normal
+     - 500	Medium
+     - 600	Semi Bold (Demi Bold)
+     - 700	Bold
+     - 800	Extra Bold (Ultra Bold)
+     - 900	Black (Heavy)
   
 3. 스타일 등록하기
 
